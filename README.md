@@ -3,4 +3,4 @@
 
 [C#](https://github.com/iphayao/getting-start-with-sql-server/tree/master/csharp) <br>
 [Java](https://github.com/iphayao/getting-start-with-sql-server/tree/master/java) <br>
-[Node.js](https://github.com/iphayao/getting-start-with-sql-server/tree/master/node.js)
+[Node.js](https://github.com/iphayao/getting-start-with-sql-server/tree/master/nodejs)
